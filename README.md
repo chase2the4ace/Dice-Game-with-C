@@ -1,2 +1,2 @@
-# Projects
-These are some projects that I have completed whether on my own time or for coursework.
+# Dice Game With C
+This is a dice game that I had to create for coursework. It was created using C.
